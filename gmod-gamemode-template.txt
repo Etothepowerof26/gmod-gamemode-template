@@ -1,0 +1,5 @@
+"gmod-gamemode-template"
+{
+	"title"		"Gamemode"
+	"base"		"base"
+}
